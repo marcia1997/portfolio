@@ -40,17 +40,17 @@ const Contact = () => {
           <h1 className="c-title">Let's magic!</h1>
           <div className="c-info">
             <div className="c-info-item">
-            <a href="https://www.w3schools.com/" alt="">
+            <a href="https://www.w3schools.com/" alt="email">
               <img src={Email} className="c-icon" />
              </a>
             </div>
             <div className="c-info-item">
-            <a href="https://www.w3schools.com/" alt ="">
+            <a href="https://www.w3schools.com/" alt ="linkedin">
               <img src={LinkedIn} className="c-icon" />
              </a>
             </div>
             <div className="c-info-item">
-            <a href="https://www.w3schools.com/" alt="">
+            <a href="https://www.w3schools.com/" alt="info">
               <img src={Github} className="c-icon" />
              </a>
             </div>
