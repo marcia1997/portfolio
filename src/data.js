@@ -6,8 +6,8 @@ export const products = [
   },
   {
     id: 2,
-    img: "https://www.canva.com/design/DAE4gV2kv8U/LxjjdV0mwSqPeNPSNRZQ6w/view?utm_content=DAE4gV2kv8U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
-    link: "",
+    img: "'/src/img/word_assciation_portfolio.PNG",
+    link: "https://word-association-gam.netlify.app/",
   },
   {
     id: 3,
